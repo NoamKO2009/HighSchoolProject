@@ -1,0 +1,221 @@
+﻿@page
+@model RazorPages.Pages.Content.FORMWORKModel
+@{
+}
+
+<title>דף הרשמה</title>
+<script src="~/js/datacheck.js"></script>
+<link href="~/css/signup.css" rel="stylesheet" />
+
+<h1 align="center">דף הרשמה</h1>
+<p>באנגלית בלבד 
+    *-שגיאה
+</p>
+<h2 align ="center" style="margin-left:20px;">
+
+        <a href="/Content/Login"
+           style="font-size: 16px; color: gray; text-decoration: none; transition: color 0.3s ease-in-out; margin-right: 20px;"
+           onmouseover="this.style.color='midnightblue'"
+           onmouseout="this.style.color='gray'">
+            !אם יש לכם משתמש לחצו כאן
+        </a>
+ </h2>
+<br />
+<table dir="rtl" width="80%">
+    <form method="post">
+    <tr>
+        <td>שם פרטי</td>
+        <td>
+            <input type="text" id="txtFirstName" placeholder="הכנס שם פרטי" onchange="PrivateName()"asp-for="NewUser.FirstName" />
+            <div class="error-message" id="errorFirstName"></div>
+        </td>
+    </tr>
+    <tr>
+        <td>שם שני (לא חובה)</td>
+        <td>
+            <input type="text" id="txtSecondName" placeholder="הכנס שם שני" onchange="SecondName()" />
+            <div class="error-message" id="errorSecondName"></div>
+        </td>
+    </tr>
+    <tr>
+        <td>שם משפחה</td>
+        <td>
+            <input type="text" id="txtLastName" placeholder="הכנס שם משפחה" onchange="FamilyName()" asp-for="NewUser.lastName" />
+            <span class="error-message" id="errorLastName"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>שם משתמש</td>
+        <td>
+            <input type="text" id="txtUserName" placeholder="הכנס שם משתמש" onchange="UserNameCheck()" asp-for="NewUser.UserName" />
+            <span class="error-message" id="errorUserName">
+                @if(Model.msg!="")
+                {
+                    @Model.msg
+                }
+            </span>
+        </td>
+    </tr>
+    <tr>
+        <td>סיסמה</td>
+        <td>
+            <input type="password" id="txtPass1" placeholder="הכנס סיסמה" onchange="CheckPassword()" asp-for="NewUser.Password"/>
+            <button type="button" id="togglePasswordButton" onclick="togglePassword()">👁</button>
+            <span id="passwordStrength" class="strength-message"></span>
+            <span class="error-message" id="errorPass1"></span>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>אימות סיסמה</td>
+        <td>
+            <input type="password" id="txtPass2" placeholder="אימות סיסמה" onchange="ConfirmPassword()"  />
+            <span class="error-message" id="errorPass2"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>אימייל</td>
+        <td>
+            <input type="email" id="txtEmail" placeholder="הכנס אימייל" onchange=" mail()" asp-for="NewUser.Mail" />
+            <span class="error-message" id="errorEmail"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>מגדר</td>
+        <td>
+            <input type="radio" id="genderMale"  value="male" required asp-for="NewUser.Gender" />
+            <label for="genderMale">זכר</label>
+
+            <input type="radio" id="genderFemale"  value="female" asp-for="NewUser.Gender" />
+            <label for="genderFemale">נקבה</label>
+                
+            <span class="error-message" id="errorGender"></span>
+
+        </td>
+    </tr>   
+
+    <tr>
+        <td>תאריך לידה</td>
+        <td>
+            <input type="text" id="txtBirthDate" placeholder=" יום-חודש-שנה הכנס תאריך לידה" onchange=" birthDate()" asp-for="NewUser.BirthDate" />
+            <span class="error-message" id="errorBirthDate"></span>
+        </td>
+    </tr>
+     @* <tr>
+        <td>תאריך לידה</td>
+        <td>
+            <div style="display: flex; gap: 10px; align-items: center;">
+                <select id="day" style="flex: 1; height: 40px; margin-top:20px;" onchange="CheckDate()">
+                    <option value="">בחר יום</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                    <option value="26">26</option>
+                    <option value="27">27</option>
+                    <option value="28">28</option>
+                    <option value="29">29</option>
+                    <option value="30">30</option>
+                    <option value="31">31</option>
+                </select>
+
+                <select id="Month" style="flex: 1; height: 40px; margin-top:20px;" onchange="CheckDate()">
+                    <option value="">בחר חודש</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                </select>
+
+                <input type="text" id="textDate" placeholder="הכנס שנה" style="flex: 1; height: 40px;margin-top:20px;" onchange="CheckDate()" />
+            </div>
+            <span class="error-message" id="errorDay"></span>
+        </td> *@
+    @*     <td>
+            <span class="error-message" id="errorBirthDay"></span>
+        </td>
+    </tr> *@ 
+
+
+
+    <tr>
+        <td>מספר טלפון</td>
+        <td>
+            <input type="text" id="phoneNumber" placeholder="7 ספרות נוספות" onchange="PhoneNumber()" style="width:150px;" asp-for="NewUser.StartPhoneNumber" />
+            <select id="phoneStart" style="width: 100px; height:46px;" onchange="PhoneNumber()" asp-for="NewUser.PhoneNumber">
+                <option value="">בחר</option>
+                <option value="050">050</option>
+                <option value="051">051</option>
+                <option value="052">052</option>
+                <option value="053">053</option>
+                <option value="054">054</option>
+                <option value="055">055</option>
+                <option value="056">056</option>
+                <option value="057">057</option>
+                <option value="058">058</option>
+                <option value="059">059</option>
+            </select>
+            <span class="error-message" id="errorPhoneNumber"></span>
+
+        
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: right;">
+            <input type="reset" value="אפס" style="margin-left: 10px;" />
+            <input type="submit" value="שלח" onclick=" return validateForm()" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <div id="successMessage" style="font-size: 18px; font-weight: bold; margin-top: 10px;"></div>
+        </td>
+    </tr>
+   
+
+    
+
+    </form>
+</table>
+
+<style>
+    .error-message {
+        color: red;
+        font-size: 15px;
+        font-family: david;
+        display: inline-block;
+        margin-left: 10px;
+        white-space: nowrap;
+    }
+</style>
+

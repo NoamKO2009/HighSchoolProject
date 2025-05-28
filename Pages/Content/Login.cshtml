@@ -1,0 +1,95 @@
+﻿@page
+@model RazorPages.Pages.Content.LoginModel
+@{
+}
+<title>דף התחברות</title>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        text-align: right;
+    }
+
+    hr {
+        border: 1px solid #f1f1f1;
+        margin-bottom: 25px;
+    }
+
+    form {
+        background-color: #fff;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        width: 300px;
+        margin: 0 auto;
+        background-color: lightgray;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+        width: 60%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: lightgray;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+        background-color: lightgray;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        input[type="submit"]:hover,
+        input[type="reset"]:hover {
+            background-color: darkslategrey;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        input[type="submit"]:active,
+        input[type="reset"]:active {
+            background-color: lightgray;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            transform: translateY(1px);
+        }
+
+    h1 {
+        font-family: David;
+    }
+</style>
+<h1 align="center">דף התחברות</h1>
+<h2 align="center" style="margin-left:20px;">
+
+    <a href="/Content/FORMWORK"
+       style="font-size: 16px; color: gray; text-decoration: none; transition: color 0.3s ease-in-out; margin-right: 20px;"
+       onmouseover="this.style.color='midnightblue'"
+       onmouseout="this.style.color='gray'">
+        !אם אין לכם משתמש לחצו כאן
+    </a>
+</h2>
+<br />
+<table dir="rtl" width="80%">
+    <form method="post">
+    <tr>
+        <td>שם משתמש</td>
+        <td><input type="text" placeholder="הכנס שם משתמש" onchange="UserNameCheck()" asp-for="NewUser1" /></td>
+    </tr>
+    <tr>
+        <td>סיסמה</td>
+        <td><input type="text" id="txtEmail" placeholder="הכנס סיסמה" onchange="CheckPassword()" asp-for="password1" /></td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: right;">
+            <input type="reset" value="אפס" style="margin-left: 10px;" />
+            <input type="submit" value="שלח" onclick="alert('התחברת לאתר בהצלחה! ')" />
+        </td>
+    </tr>
+    </form>
+</table>

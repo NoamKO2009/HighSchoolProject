@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorPages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorPages.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\AM2_4180-Edit-scaled.webp",
+      "PackagePath": "staticwebassets\\Picturs\\AM2_4180-Edit-scaled.webp"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\Arrow.png",
+      "PackagePath": "staticwebassets\\Picturs\\Arrow.png"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\ErculesAmit.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\ErculesAmit.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F-15Sunset.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F-15Sunset.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F-16.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F-16.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F-162.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F-162.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F-18 table.webp",
+      "PackagePath": "staticwebassets\\Picturs\\F-18 table.webp"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F-18Pictures.png",
+      "PackagePath": "staticwebassets\\Picturs\\F-18Pictures.png"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F-35 Completes Weapon Delivery Accuracy Test (1).mp4",
+      "PackagePath": "staticwebassets\\Picturs\\F-35 Completes Weapon Delivery Accuracy Test (1).mp4"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F15.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F15.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F22AItAIR.avif",
+      "PackagePath": "staticwebassets\\Picturs\\F22AItAIR.avif"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F22Sunset.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F22Sunset.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F22T.avif",
+      "PackagePath": "staticwebassets\\Picturs\\F22T.avif"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F35ata.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F35ata.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\F35tidluk.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\F35tidluk.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\HerculesFlares.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\HerculesFlares.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\IAFHERCULES.jpeg",
+      "PackagePath": "staticwebassets\\Picturs\\IAFHERCULES.jpeg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\INSANE F-22 Raptor Hype Video.mp4",
+      "PackagePath": "staticwebassets\\Picturs\\INSANE F-22 Raptor Hype Video.mp4"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\Pilots-Flaring.webp",
+      "PackagePath": "staticwebassets\\Picturs\\Pilots-Flaring.webp"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\S-572.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\S-572.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\S3743.webp",
+      "PackagePath": "staticwebassets\\Picturs\\S3743.webp"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\S57Info.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\S57Info.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\SU-37.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\SU-37.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\Su-57",
+      "PackagePath": "staticwebassets\\Picturs"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\Typhoon.png",
+      "PackagePath": "staticwebassets\\Picturs\\Typhoon.png"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\TyphoonTable.webp",
+      "PackagePath": "staticwebassets\\Picturs\\TyphoonTable.webp"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\U.S. Air Force Commercial – Own the Sky.mp4",
+      "PackagePath": "staticwebassets\\Picturs\\U.S. Air Force Commercial – Own the Sky.mp4"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\barak.jpeg",
+      "PackagePath": "staticwebassets\\Picturs\\barak.jpeg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\barak2.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\barak2.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\bombf15.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\bombf15.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f-165.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\f-165.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f-35b.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\f-35b.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f-35rockets.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\f-35rockets.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f15 videoMatas.mp4",
+      "PackagePath": "staticwebassets\\Picturs\\f15 videoMatas.mp4"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f223.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\f223.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f22vectors.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\f22vectors.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f35 videoMatas.mp4",
+      "PackagePath": "staticwebassets\\Picturs\\f35 videoMatas.mp4"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f35-nevatim.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\f35-nevatim.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\f352.jpeg",
+      "PackagePath": "staticwebassets\\Picturs\\f352.jpeg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\rocket.jpg",
+      "PackagePath": "staticwebassets\\Picturs\\rocket.jpg"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\Picturs\\rocket.webp",
+      "PackagePath": "staticwebassets\\Picturs\\rocket.webp"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\css\\SignUp.css",
+      "PackagePath": "staticwebassets\\css\\SignUp.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\js\\DataCheck.js",
+      "PackagePath": "staticwebassets\\js\\DataCheck.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\נועם\\נועם כיתה י4\\פרוייקט אינטרנט\\BestInsertPlusUpdate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RazorPages.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RazorPages.props",
+      "PackagePath": "build\\RazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorPages.props",
+      "PackagePath": "buildMultiTargeting\\RazorPages.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RazorPages.props",
+      "PackagePath": "buildTransitive\\RazorPages.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

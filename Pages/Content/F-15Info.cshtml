@@ -1,0 +1,54 @@
+﻿@page
+@model RazorPages.Pages.Content.F_15InfoModel
+@{
+}
+<title>F-15</title>
+<style>
+    h1{
+        color: black;
+        text-shadow: 4px 2px 4px;
+    }
+
+    body {
+        background-color: transparent;
+    }
+    h2{
+        color:cornflowerblue;
+        text-shadow: 1px 1px 2px;
+    }
+  
+</style>
+<header>
+    <h1 align="center">F-15 מטוס הקרב </h1>
+</header>
+<div dir="rtl">
+    <h2>מידע כללי</h2>
+    <p>
+        ה-F-15, המוכר גם בשם "איגל" (Eagle), הוא מטוס קרב על-קולי שפותח על ידי חברת מקדונל דאגלס
+        (כיום בואינג). המטוס תוכנן כדי להשיג עליונות אווירית בשדה הקרב ומשמש כחלק מרכזי בחילות האוויר של מדינות רבות, כולל חיל האוויר הישראלי.
+    </p>
+    <h2 dir ="rtl">מאפיינים עיקריים</h2>
+    <ul dir="rtl">
+        <li>מהירות מקסימלית: מעל 2.5 מאך</li>
+        <li>טווח טיסה: כ-4,500 ק"מ עם מכלי דלק נוספים</li>
+        <li>חימוש: טילים מונחי חום ורדאר, תותח M61 וולקן</li>
+        <li>צוות: טייס יחיד או שניים (תלוי בדגם)</li>
+    </ul>
+    <div class="image-container">
+        <img src="~/picturs/am2_4180-edit-scaled.webp"  width="1000px" height="600px"/>
+    </div>
+</div>
+<br />
+<br />
+<h2 align="center"> מבצעים תרגילים במטס יום העצמאות F-15 בסרטון למטה תוכלו לראות שני מטוסי </h2>
+
+<p align="center">
+    <video controls="controls">
+        <source src="~/picturs/f15%20videomatas.mp4" type="video/mp4" />
+    </video>
+</p>
+<a asp-page="/Content/F-15Info">
+    <img src="~/picturs/arrow.png" title="לחץ כדי להעלות מעלה" />
+</a>
+
+

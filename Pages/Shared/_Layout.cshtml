@@ -1,0 +1,148 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    var sessionValue = Context.Session.GetString("Login");
+    var sessionAdmin = Context.Session.GetString("Admin");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RazorPages.styles.css" asp-append-version="true" />
+    <link href="~/css/hover.css" rel="stylesheet" />
+
+    <style>
+            .navbar {
+                background-color: gray;
+                transition: background-color 0.3s ease;
+            }
+
+            .navbar:hover {
+                background-color: lightgray;
+            }
+
+            .navbar-nav .nav-link {
+                position: relative;
+                color: #ffffff;
+                text-decoration: none;
+                transition: color 0.3s ease, background-color 0.3s ease;
+                padding: 10px 15px;
+            }
+
+            .navbar-nav .nav-link:hover {
+                color: #ffeb3b;
+                background-color: rgba(255, 255, 255, 0.2);
+                border-radius: 5px;
+            }
+
+            .navbar-nav .nav-link::before {
+                content: "";
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 3px;
+                margin-bottom: -2px;
+                background: linear-gradient(to right, #333333, #888888, #d3d3d3, #ffffff); 
+                transform: scaleX(0);
+                transform-origin: bottom right;
+                transition: transform 0.4s ease-in-out;
+            }
+
+            .navbar-nav .nav-link:hover::before {
+                transform: scaleX(1);
+                transform-origin: bottom left;
+            }
+
+            .navbar-nav .signup {
+                border: 2px solid #ffffff;
+                border-radius: 25px;
+                padding: 10px 20px;
+                color: #ffffff;
+                background-color: transparent;
+                transition: all 0.3s ease;
+            }
+
+            .navbar-nav .signup:hover {
+                color: #ffeb3b;
+                background-color: rgba(255, 255, 255, 0.2);
+            }
+
+            .navbar-nav .signup::after {
+                width: 0;
+            }
+    </style>
+
+</head>
+
+<body>
+    <header dir="rtl" style="font-family:David">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">דף הבית</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div align="center" class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Content/AirCrafts">מה זה מטוס קרב?</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Content/Table"> מטוסי קרב</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Content/TypesOfWeapons"> חימושים</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Content/ShowUsers"> טבלה</a>
+                        </li>
+                  
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Content/Hercules">מטוס התובלה המפורסם בעולם</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Content/FLARES" style="margin-left:25px">אמצעי נגד</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link signup" asp-area="" asp-page="/Content/FORMWORK" style="margin-left:10px">דף הרשמה</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link signup" asp-area="" asp-page="/Content/Login">דף התחברות</a>
+                        </li>
+                    </ul>
+                    @if (string.IsNullOrEmpty(sessionValue))
+                    {
+                    <span class="navbar-text">welcome visitor</span>
+                    }
+                    else
+                    {
+                    <span class="navbar-text">welcome @sessionValue</span>
+                    <div class="d-flex">
+                        <a class="btn btn-outline-dark btn-sm ms-1" href="Logout" role="button">LogOut</a>
+                    </div>
+                    }
+    
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

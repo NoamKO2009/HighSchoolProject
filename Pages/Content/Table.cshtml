@@ -1,0 +1,112 @@
+﻿@page
+@model RazorPages.Pages.Content.TableModel
+@{
+}
+<title>טבלת מטוסי קרב</title>
+
+<style>
+    h1 {
+        color: black;
+        text-shadow: 4px 2px 4px;
+    }
+
+    body {
+        background-color: transparent;
+    }
+
+    h2 {
+        color: black;
+        text-shadow: 1px 1px 2px;
+        font-family: David;
+    }
+
+    p {
+        font-family: David;
+    }
+
+
+    table {
+        margin: auto;
+        text-align: center;
+    }
+
+    td {
+        padding: 10px;
+    }
+
+    img {
+        border-radius: 10%;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    img:hover {
+        transform: scale(1.05); 
+        box-shadow: 0 12px 20px rgba(0, 0, 0, 0.9); 
+    }
+</style>
+
+<h1 align="center">מטוסי קרב</h1>
+<hr />
+<h2 align="center">!לחצו על כל תמונה של מטוס כדי לדעת עוד</h2>
+<hr />
+<br />
+<br />
+
+<table align="center">
+    <tr>
+        <td>
+            <a asp-page="/Content/F-35Info">
+                <img style="border-radius:10%;" src="~/picturs/f352.jpeg" title=" F-35 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+
+        <td>
+            <a asp-page="/Content/F-16Info">
+                <img style="border-radius:10%;" src="~/picturs/f-162.jpg" title=" F-16 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a asp-page="/Content/F-15Info">
+                <img style="border-radius:10%;" src="~/picturs/f15.jpg" title=" F-15 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+        <td>
+            <a asp-page="/Content/F-22Info">
+                <img style="border-radius:10%;" src="~/picturs/f22vectors.jpg" title=" F-22 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a asp-page="/Content/Su-57Info">
+                <img style="border-radius:10%;" src="~/picturs/s-572.jpg" su-37 title=" Su-57 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+        <td>
+            <a asp-page="/Content/Su37Info">
+                <img style="border-radius:10%;" src="~/picturs/su-37.jpg" title=" Su-37 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a asp-page="/Content/EurofighterTyphoon">
+                <img style="border-radius:10%;" src="~/picturs/typhoontable.webp" title=" EurofighterTyphoon לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+        <td>
+            <a asp-page="/Content/F-18Info">
+                <img style="border-radius:10%;" src="~/picturs/f-18 table.webp"  title=" F-18 לחץ כדי לקבל מידע על מטוס  " width="550px" height="300px" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a asp-page="/Content/Table">
+                <img src="~/picturs/arrow.png" title="לחץ כדי להעלות מעלה"/>
+            </a>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,201 @@
+﻿@page
+@model RazorPages.Pages.Content.UpdateDataModel
+@{
+}
+
+<title>דף הרשמה</title>
+<link href="~/css/signup.css" rel="stylesheet" />
+
+<h1 align="center">דף עידכון</h1>
+<h2 align ="center" style="margin-left:20px;">
+ </h2>
+<br />
+<table dir="rtl" width="80%">
+    <form method="post">
+    <tr>
+        <td>שם פרטי</td>
+        <td>
+            <input type="text" id="txtFirstName" asp-for="NewUser.FirstName" />
+            <div class="error-message" id="errorFirstName"></div>
+        </td>
+    </tr>
+    
+    <tr>
+        <td>שם משפחה</td>
+        <td>
+            <input type="text" id="txtLastName" asp-for="NewUser.lastName" />
+            <span class="error-message" id="errorLastName"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>שם משתמש</td>
+        <td>
+            <input type="text" id="txtUserName" readonly asp-for="NewUser.UserName" />
+            <span class="error-message" id="errorUserName"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>סיסמה</td>
+        <td>
+            <input type="text" id="txtPass1" asp-for="NewUser.Password" />
+            <span id="passwordStrength" class="strength-message"></span>
+            <span class="error-message" id="errorPass1"></span>
+        </td>
+    </tr>
+
+    <tr>
+        <td>אימייל</td>
+        <td>
+            <input type="email" id="txtEmail" asp-for="NewUser.Mail" />
+            <span class="error-message" id="errorEmail"></span>
+        </td>
+    </tr>
+   @*  <tr>
+        <td>מגדר</td>
+        <td>
+            <label class="custom-radio">
+                <input type="radio" id="female"  asp-for="NewUser.Gender"/>
+                <span class="radio-label">נקבה</span>
+            </label>
+            <label class="custom-radio">
+                <input type="radio" id="male" asp-for="NewUser.Gender"/>
+                <span class="radio-label">זכר</span>
+            </label>
+            <span class="error-message" id="errorGender"></span>
+        </td>
+    </tr>
+
+ *@
+    <tr>
+        <td>מגדר</td>
+        <td>
+            <input type="radio" id="genderMale" name="gender" value="זכר" asp-for="NewUser.Gender"  />
+            <label for="genderMale">זכר</label>
+
+            <input type="radio" id="genderFemale" name="gender" value="נקבה" asp-for="NewUser.Gender" />
+            <label for="genderFemale">נקבה</label>
+
+            <span class="error-message" id="errorGender"></span>
+        </td>
+    </tr>
+
+   @*  <tr>
+        <td>תאריך לידה</td>
+        <td>
+            <div style="display: flex; gap: 10px; align-items: center;" asp-for="NewUser.birthDate">
+                <select id="day" style="flex: 1; height: 40px; margin-top:20px;">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                    <option value="13">13</option>
+                    <option value="14">14</option>
+                    <option value="15">15</option>
+                    <option value="16">16</option>
+                    <option value="17">17</option>
+                    <option value="18">18</option>
+                    <option value="19">19</option>
+                    <option value="20">20</option>
+                    <option value="21">21</option>
+                    <option value="22">22</option>
+                    <option value="23">23</option>
+                    <option value="24">24</option>
+                    <option value="25">25</option>
+                    <option value="26">26</option>
+                    <option value="27">27</option>
+                    <option value="28">28</option>
+                    <option value="29">29</option>
+                    <option value="30">30</option>
+                    <option value="31">31</option>
+                </select>
+
+                <select id="Month" style="flex: 1; height: 40px; margin-top:20px;" >
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                </select>
+
+                <input type="text" id="textDate"  style="flex: 1; height: 40px;margin-top:20px;"/>
+            </div>
+            <span class="error-message" id="errorDay"></span>
+        </td>
+        <td>
+            <span class="error-message" id="errorBirthDay"></span>
+        </td>
+    </tr> *@
+    
+    <td>תאריך לידה</td>
+    <td>
+        <input type="email" id="txtBirthDate" asp-for="NewUser.BirthDate"/>
+        <span class="error-message" id="errorBirthDate"></span>
+    </td>
+    
+
+
+    <tr>
+        <td>מספר טלפון</td>
+        <td>
+            <input type="text" id="phoneNumber"  style="width:150px;"/>
+            <select id="phoneStart" style="width: 100px; height:46px;" >
+                <option value="050">050</option>
+                <option value="051">051</option>
+                <option value="052">052</option>
+                <option value="053">053</option>
+                <option value="054">054</option>
+                <option value="055">055</option>
+                <option value="056">056</option>
+                <option value="057">057</option>
+                <option value="058">058</option>
+                <option value="059">059</option>
+            </select>
+            <span class="error-message" id="errorPhoneNumber"></span>
+
+        
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: right;">
+            <input type="reset" value="אפס" style="margin-left: 10px;" />
+            <input type="submit" value="שלח" onclick="return true" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <div id="successMessage" style="font-size: 18px; font-weight: bold; margin-top: 10px;"></div>
+        </td>
+    </tr>
+   
+
+    
+
+    </form>
+</table>
+
+<style>
+    .error-message {
+        color: red;
+        font-size: 15px;
+        font-family: david;
+        display: inline-block;
+        margin-left: 10px;
+        white-space: nowrap;
+    }
+</style>
+

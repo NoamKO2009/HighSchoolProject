@@ -1,0 +1,184 @@
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\appsettings.json
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\RazorPages.staticwebassets.runtime.json
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\RazorPages.exe
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\RazorPages.deps.json
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\RazorPages.runtimeconfig.json
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\RazorPages.dll
+C:\Users\yarin\source\repos\RazorPages\bin\Debug\net8.0\RazorPages.pdb
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.AssemblyInfoInputs.cache
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.AssemblyInfo.cs
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.csproj.CoreCompileInputs.cache
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.RazorAssemblyInfo.cache
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.RazorAssemblyInfo.cs
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.RazorPages.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.build.RazorPages.props
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RazorPages.props
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RazorPages.props
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\scopedcss\bundle\RazorPages.styles.css
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\scopedcss\projectbundle\RazorPages.bundle.scp.css
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.dll
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\refint\RazorPages.dll
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.pdb
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\RazorPages.genruntimeconfig.cache
+C:\Users\yarin\source\repos\RazorPages\obj\Debug\net8.0\ref\RazorPages.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\appsettings.Development.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\appsettings.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\RazorPages.staticwebassets.runtime.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\RazorPages.exe
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\RazorPages.deps.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\RazorPages.runtimeconfig.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\RazorPages.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\RazorPages.pdb
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.AssemblyInfoInputs.cache
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.AssemblyInfo.cs
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.csproj.CoreCompileInputs.cache
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.MvcApplicationPartsAssemblyInfo.cache
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.RazorAssemblyInfo.cache
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.RazorAssemblyInfo.cs
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets.build.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets.development.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.RazorPages.Microsoft.AspNetCore.StaticWebAssets.props
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.build.RazorPages.props
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RazorPages.props
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RazorPages.props
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\staticwebassets.pack.json
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\scopedcss\bundle\RazorPages.styles.css
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\scopedcss\projectbundle\RazorPages.bundle.scp.css
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\refint\RazorPages.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.pdb
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.genruntimeconfig.cache
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\ref\RazorPages.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Azure.Core.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Azure.Identity.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.ClientModel.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.Memory.Data.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.csproj.AssemblyReference.cache
+C:\נועם כיתה י'4\מחשבים\אינטרנט\RazorPages\obj\Debug\net8.0\RazorPages.csproj.Up2Date
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\appsettings.Development.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\appsettings.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\RazorPages.staticwebassets.runtime.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\RazorPages.exe
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\RazorPages.deps.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\RazorPages.runtimeconfig.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\RazorPages.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\RazorPages.pdb
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Azure.Core.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Azure.Identity.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.ClientModel.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.Memory.Data.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.csproj.AssemblyReference.cache
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.GeneratedMSBuildEditorConfig.editorconfig
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.AssemblyInfoInputs.cache
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.AssemblyInfo.cs
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.csproj.CoreCompileInputs.cache
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.MvcApplicationPartsAssemblyInfo.cache
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.RazorAssemblyInfo.cache
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.RazorAssemblyInfo.cs
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\scopedcss\bundle\RazorPages.styles.css
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\scopedcss\projectbundle\RazorPages.bundle.scp.css
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets.build.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets.development.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets\msbuild.RazorPages.Microsoft.AspNetCore.StaticWebAssets.props
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets\msbuild.build.RazorPages.props
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RazorPages.props
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RazorPages.props
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\staticwebassets.pack.json
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.csproj.Up2Date
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\refint\RazorPages.dll
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.pdb
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\RazorPages.genruntimeconfig.cache
+D:\נועם\נועם כיתה י4\פרוייקט אינטרנט\BestInsertPlusUpdate\obj\Debug\net8.0\ref\RazorPages.dll

@@ -1,0 +1,165 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: right;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+.custom-radio {
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 15px; /* ריווח בין הכפתורים */
+    direction: rtl; /* תומך בכיוון הכתיבה הנכון */
+}
+
+    .custom-radio input[type="radio"] {
+        display: none;
+    }
+
+    .custom-radio .radio-label {
+        position: relative;
+        padding-right: 30px; /* ריווח לנקודה */
+        cursor: pointer;
+        font-size: 16px;
+        margin-right: 10px; /* הזזת הטקסט ימינה */
+    }
+
+        .custom-radio .radio-label::before {
+            content: "";
+            position: absolute;
+            right: 0; /* הנקודה תהיה בצד ימין */
+            top: 50%;
+            transform: translateY(-50%);
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            border: 2px solid darkslategrey;
+            background-color: white;
+        }
+
+    .custom-radio input[type="radio"]:checked + .radio-label::before {
+        background-color: darkslategrey;
+        border: 2px solid darkslategrey;
+    }
+
+/* עיצוב כולל לטופס */
+form {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 300px;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+/* עיצוב לשדות טקסט, אימייל, סיסמה ותאריך */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"] {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+
+/* אם תרצה שתיבת תאריך תהיה קטנה יותר, השאר את ההגדרה הזאת:
+input[type="date"] {
+    width: 40%;
+} 
+*/
+
+/* עיצוב לרשימות נגללות (select) כך שיתאימו לאותו סגנון של input */
+select {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: lightgray;
+    white-space: nowrap; /* כדי שהטקסט באופציות לא ייחתך */
+}
+
+/* עיצוב לכפתורי שליחה/איפוס */
+input[type="submit"],
+input[type="reset"] {
+    background-color: lightgray;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+        background-color: darkslategrey;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    input[type="submit"]:active,
+    input[type="reset"]:active {
+        background-color: lightgray;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        transform: translateY(1px);
+    }
+
+/* עיצוב לרדיו/צ'קבוקס */
+input[type="checkbox"],
+input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    background-color: lightgray;
+    color: cadetblue;
+}
+
+/* כותרת */
+h1 {
+    font-family: David;
+}
+/* מקפידים על עיצוב נוח לכל התוכן */
+
+
+/* שגיאה */
+.error-message {
+    color: red;
+    font-size: 15px;
+    font-family: david;
+    display: block; /* תצוגה כשורה חדשה */
+    margin-top: 5px; /* רווח מהשדה */
+    word-wrap: break-word; /* שובר מילים ארוכות */
+    white-space: normal; /* מאפשר מעבר לשורות */
+}
+
+
+
+/* הודעת חוזק סיסמה */
+.strength-message {
+    color: blue;
+    font-size: 15px;
+    font-family: david;
+    display: inline-block;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+/* הודעות שגיאה */
+.error-message {
+    color: red;
+    font-size: 15px;
+    font-family: david;
+    display: inline-block;
+    margin-left: 10px;
+    white-space: nowrap;
+}

@@ -1,0 +1,82 @@
+﻿@page
+@model RazorPages.Pages.Content.TypesOfWeaponsModel
+@{
+}
+<title>סוגי חימושים של מטוסי קרב</title>
+<style>
+    h1 {
+        color: black;
+        text-shadow: 4px 2px 4px;
+    }
+
+    body {
+        background-color: transparent;
+    }
+
+    h2 {
+        color: gray;
+        text-shadow: 1px 1px 2px;
+    }
+
+    a {
+        color: midnightblue; 
+        text-decoration: underline; 
+        transition: all 0.3s ease; 
+    }
+
+        a:hover {
+            color: gray; 
+            text-decoration: none; 
+        }
+</style>
+
+<header>
+    <h1 align="center">סוגי חימושים של מטוסי קרב</h1>
+</header>
+<section dir="rtl">
+    <h2>רקע כללי</h2>
+    <p>מטוסי קרב מצוידים במגוון חימושים שנועדו למלא משימות שונות, החל מתקיפה מדויקת ועד להגנה אווירית. להלן פירוט של סוגי החימושים המרכזיים:</p>
+
+    <h2>סוגי חימושים</h2>
+    <ul>
+        <li>
+            <a asp-area="" asp-page="/Content/AirTOAir">
+                <strong>טילי אוויר-אוויר:</strong>
+            </a>
+            נועדו לפגוע במטרות אוויריות, כמו מטוסים אחרים. דוגמאות כוללות את AIM-120 AMRAAM ו-R-73.
+        </li>
+        <li>
+            <a asp-area="" asp-page="/Content/AirToGround">
+                <strong>טילי אוויר-קרקע:</strong>
+            </a>
+            משמשים לתקיפת מטרות קרקעיות, כמו מבנים, כלי רכב ומתקנים צבאיים. דוגמאות כוללות את AGM-65 Maverick ו-Kh-29.
+        </li>
+        <li>
+            <a asp-area="" asp-page="/Content/Bombs">
+                <strong>פצצות מונחות:</strong>
+            </a>
+            פצצות מדויקות המונחות באמצעות לייזר, GPS או מערכות אחרות. דוגמאות כוללות את GBU-12 Paveway II ו-JDAM.
+        </li>
+     
+        <li>
+            <a asp-area="" asp-page="/Content/Guns">
+                <strong>תותחים:</strong>
+            </a>
+                 נשק מובנה במטוסים המסוגל לירות פגזים במהירות גבוהה למטרות קצרות טווח. דוגמאות כוללות את M61 Vulcan ו-GSh-30-1.
+
+            
+        </li>
+        <li>
+
+            <a asp-area="" asp-page="/Content/MazmarBombs">
+                <strong>פצצות מצרר:</strong>
+            </a>
+           פצצות שמתפצלות באוויר ומפזרות תת-חימושים קטנים יותר. דוגמאות כוללות את CBU-87.
+            
+
+        </li>
+    </ul>
+
+    <h2>סיכום</h2>
+    <p>המגוון הרחב של חימושים במטוסי קרב מאפשר להם למלא משימות רבות ומגוונות. לכל סוג חימוש יש תפקיד קריטי בשדה הקרב המודרני.</p>
+</section>

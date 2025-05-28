@@ -1,0 +1,134 @@
+﻿@page
+@model RazorPages.Pages.Content.UpdateData2Model
+@{
+}
+<link href="~/css/signup.css" rel="stylesheet" />
+<h1 align="center">דף הרשמה</h1>
+
+<h2 align ="center" style="margin-left:20px;">
+
+        <a href="/Content/Login"
+           style="font-size: 16px; color: gray; text-decoration: none; transition: color 0.3s ease-in-out; margin-right: 20px;"
+           onmouseover="this.style.color='midnightblue'"
+           onmouseout="this.style.color='gray'">
+            !אם יש לכם משתמש לחצו כאן
+        </a>
+ </h2>
+<br />
+<table dir="rtl" width="80%">
+    <form method="post">
+    <tr>
+        <td>שם פרטי</td>
+        <td>
+            <input type="text" id="txtFirstName" asp-for="NewUser.FirstName" />
+            <div class="error-message" id="errorFirstName"></div>
+        </td>
+    </tr>
+ 
+ 
+    <tr>
+        <td>שם משתמש</td>
+        <td>
+            <input type="text" id="txtUserName" asp-for="NewUser.UserName" readonly />
+            <span class="error-message" id="errorUserName"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>סיסמה</td>
+        <td>
+            <input type="text" id="txtPass1" asp-for="NewUser.Password" />
+            <button type="button" id="togglePasswordButton" onclick="togglePassword()">👁</button>
+            <span id="passwordStrength" class="strength-message"></span>
+            <span class="error-message" id="errorPass1"></span>
+        </td>
+    </tr>
+
+    <tr>
+        <td>אימייל</td>
+        <td>
+            <input type="email" id="txtEmail" asp-for="NewUser.Mail" />
+            <span class="error-message" id="errorEmail"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>מגדר</td>
+        <td>
+            <input type="radio" id="genderMale"   value="male" asp-for="NewUser.Gender" />
+            <label for="genderMale">זכר</label>
+
+            <input type="radio" id="genderFemale" value="female" asp-for="NewUser.Gender" />
+            <label for="genderFemale">נקבה</label>
+
+            <span class="error-message" id="errorGender"></span>
+
+        </td>
+    </tr>   
+
+    <tr>
+        <td>תאריך לידה</td>
+        <td>
+            <input type="text" id="txtBirthDate" asp-for="NewUser.BirthDate" />
+            <span class="error-message" id="errorBirthDate"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>מספר טלפון</td>
+        <td>
+            <input type="text" id="phoneNumber"  style="width:150px;" asp-for="NewUser.StartPhoneNumber" />
+            <select id="phoneStart" style="width: 100px; height:46px;"  asp-for="NewUser.PhoneNumber">
+                <option value="">בחר</option>
+                <option value="050">050</option>
+                <option value="051">051</option>
+                <option value="052">052</option>
+                <option value="053">053</option>    
+                <option value="054">054</option>
+                <option value="055">055</option>
+                <option value="056">056</option>
+                <option value="057">057</option>
+                <option value="058">058</option>
+                <option value="059">059</option>
+            </select>
+            <span class="error-message" id="errorPhoneNumber"></span>
+
+
+        </td>
+    </tr>
+
+    
+    <tr>
+        <td><label for="admin1">Admin</label></td>
+        <td>
+            <input type="checkbox" id="admin1" asp-for="NewUser.admin1" />
+            <span class="error-message" id="errorAdmin1"></span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: right;">
+            <input type="reset" value="אפס" style="margin-left: 10px;" />
+            <input type="submit" value="שלח" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <div id="successMessage" style="font-size: 18px; font-weight: bold; margin-top: 10px;"></div>
+        </td>
+    </tr>
+
+    
+    
+
+    </form>
+</table>
+
+<style>
+    .error-message {
+        color: red;
+        font-size: 15px;
+        font-family: david;
+        display: inline-block;
+        margin-left: 10px;
+        white-space: nowrap;
+    }
+</style>
+
+

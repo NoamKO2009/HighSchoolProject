@@ -1,0 +1,105 @@
+# Build results
+bin/
+obj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio for Mac
+.idea/
+.vscode/
+*.csproj.user
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# File-based project settings
+*.DotSettings
+
+# .NET Core generated files
+*.dbmdl
+*.bak
+*.backup
+*.rdl.data
+*.pdb
+*.cache
+*.config
+*.dll
+*.exe
+
+# Azure Pipeline artifacts
+*.tgz
+*.nupkg
+
+# Others
+*.vspscc
+*.vssscc
+*.ncrunch*
+*.snk
+_ReSharper*/
+*.resharper
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Visual Studio cache files
+.vs/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# Backup & temporary files
+*.tmp
+*.bak
+*.swp
+*.swn
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Others
+*.orig
+*.rej
+*.db
+*.sqlite
+*.sdf
